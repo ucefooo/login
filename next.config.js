@@ -5,6 +5,7 @@ const nextConfig = {
   // Enable static HTML export
   output: {
     export: true,
+    output: 'export',
   },
 };
 
